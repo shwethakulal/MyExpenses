@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_s1">#f64c73</color>
+    <color name="bg_s2">#20d2bb</color>
+    <color name="bg_s3">#3395ff</color>
+    <color name="bg_s4">#c873f4</color>
+
+    <color name="dot_dark_s1">#d1395c</color>
+    <color name="dot_dark_s2">#14a895</color>
+    <color name="dot_dark_s3">#2278d4</color>
+    <color name="dot_dark_s4">#a854d4</color>
+
+
+    <color name="dot_light_s1">#f98da5</color>
+    <color name="dot_light_s2">#8cf9eb</color>
+    <color name="dot_light_s3">#93c6fd</color>
+    <color name="dot_light_s4">#e4b5fc</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_s1</item>
+        <item>@color/dot_light_s2</item>
+        <item>@color/dot_light_s3</item>
+        <item>@color/dot_light_s4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_s1</item>
+        <item>@color/dot_dark_s2</item>
+        <item>@color/dot_dark_s3</item>
+        <item>@color/dot_dark_s4</item>
+    </array>
+</resources>
